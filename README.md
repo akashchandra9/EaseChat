@@ -21,7 +21,7 @@ EaseChat is a real-time chat application built using Node.js and Socket.io. It a
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/easechat.git
+   git clone https://github.com/akashchandra9/EaseChat.git
    ```
 2. Navigate to the project directory:
    ```
